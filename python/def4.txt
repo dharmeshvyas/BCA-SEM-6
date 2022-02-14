@@ -1,0 +1,2 @@
+write program to insert student name ,semster course , address , con no,display it
+into activity

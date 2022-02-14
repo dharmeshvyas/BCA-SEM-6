@@ -1,0 +1,7 @@
+4.write a program  to get number from user and insert following details into dictionry
+1.roll no
+name
+city 
+contact no
+
+get value from list
