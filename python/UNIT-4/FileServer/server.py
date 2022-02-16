@@ -23,7 +23,8 @@ while True:
         l = f.read(1024)
     f.close()
     print("done sending")
-    con.send("Thank you for connecting")
+    msg = 'Thank your for connecting. :)\r\r'
+    con.send(msg.encode())
     con.close()
 
 
