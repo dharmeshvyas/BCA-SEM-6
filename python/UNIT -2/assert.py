@@ -13,4 +13,5 @@ def avg(marks):
 
 
 marks = []
-print("Averager of mark1 :", avg(marks))
+print("Averager of mar"
+      "k1 :", avg(marks))
